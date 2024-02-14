@@ -85,3 +85,4 @@ Example #: [Insert Example Number]
 
 # Learning Outcome [1 Minute]
 - Reflect on what you've learned from analyzing these code examples in different paradigms.
+
