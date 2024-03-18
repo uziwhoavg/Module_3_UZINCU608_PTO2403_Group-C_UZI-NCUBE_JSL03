@@ -1,4 +1,4 @@
-function cookSteakDeclarative(steakWeight, desiredDoneness) {
+function cookSteak(steakWeight, desiredDoneness) {
     const grillTemperatureCelsius = 204; 
     const seasoning = 'Salt and Pepper';
   
@@ -31,5 +31,5 @@ function cookSteakDeclarative(steakWeight, desiredDoneness) {
     }
   }
   
-  cookSteakDeclarative(16, 63); // Cook a 16 oz steak to medium-rare (63°C)
+  cookSteak(16, 63); // Cook a 16 oz steak to medium-rare (63°C)
   
