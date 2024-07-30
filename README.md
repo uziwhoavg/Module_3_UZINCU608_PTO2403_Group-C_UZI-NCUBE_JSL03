@@ -1,61 +1,10 @@
 # [JSL03] Project Submission: Which one is which? Declarative or Imperative?!
 
-Loom Recording Link: [Insert Link]
+Loom Recording Link: [EXAMPLE1](https://www.loom.com/share/b752302f0b734b49ac9e71c56dc80ba4?sid=012d5041-90dd-4f34-9c36-460527dc7020)
+                     [EXAMPLE12](hhttps://www.loom.com/share/98c44990206d4493b9374b62990dcf02?sid=7f63d956-98ab-4cc5-8ce9-f47cddc6c6f6)
 
-# Project Overview
 
-In this project, you will be presented with two JavaScript code examples, each demonstrating a different programming paradigm: imperative and declarative. Your task is to analyse these examples and determine which one follows an imperative programming style and which one follows a declarative programming style. 
 
-You will present your reasoning for each example, record your presentation using Loom, and submit your findings along with the Loom recording to the Project Tab on the Learning Management System (LMS).
-
-# Instructions
-
-## Step 1: Clone the Repository
-
-Repo Link: https://github.com/CodeSpace-Academy/Module_3_StudentNo_Classcode_Group_Name-Surname_JSL03
-
-1. Access the provided repository containing the starter code and presentation template.
-2. Clone the repository.
-3. Open the cloned repository in your preferred code editor.
-
-## Step 2: Analyze the Examples
-
-1. In the cloned repository, you will find two JavaScript code examples labeled "Example 1" and "Example 2."
-2. Examine each code example and determine which one follows an imperative programming style and which one follows a declarative programming style.
-
-## Step 3: Record Your Presentation
-
-1. Use Loom (https://www.loom.com/).
-2. Create a single video presentation for both examples that include the following:
-
-   - Introduction of the example number.
-   - Explanation of whether the example is imperative or declarative.
-   - Detailed reasoning for your choice, discussing the code logic and style used in the example.
-   - Mention any specific code structures or patterns that align with the chosen programming paradigm.
-   
-3. Keep each video presentation concise, with a maximum length of 2 minutes for each example. Your total recording time should not exceed 5 minutes.
-
-## Step 4: Insert Loom Links
-
-1. After recording, upload your presentation videos to Loom.
-2. Obtain the Loom recording links for the video presentation.
-3. Edit the `README.md` file in the cloned repository and insert the Loom recording links.
-   
-## Step 5: Submit Your Project
-1. Commit your changes to the Git repository and push them to your GitHub account.
-2. Ensure that the repository is public so that it can be accessed.
-3. Submit the GitHub project link (URL) that includes your Loom recording link to the [JSL03] Project Tab on the LMS for evaluation.
-
-# Project Evaluation
-
-Your project will be evaluated based on your ability to:
-
-- Accurately identify and differentiate between imperative and declarative programming styles.
-- Provide clear and well-reasoned explanations for your choices.
-- Present your findings concisely within the specified time limit.
-- Follow the submission instructions accurately.
-
-Follow the steps outlined above to complete the project successfully.
 
 # Presentation Talking Points
 
